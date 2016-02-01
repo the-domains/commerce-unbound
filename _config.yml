@@ -1,0 +1,28 @@
+name: Commerce Unbound
+favicon: null
+layout_spectrum: 0.27204848267138004
+typography_spectrum: 0.8970564764458686
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.851305382559076
+  lightness: 0.11166448425501585
+  saturation: 0.6703249600250274
+  rhythmicContrast: 0.7629787907935679
+purpose: []
